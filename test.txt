@@ -2,3 +2,4 @@ Just a test.
 Another test.
 Tag test.
 Rebase test.
+Cherry-Pick test.
