@@ -2,6 +2,6 @@ Another test.
 Branch test.
 Cherry-Pick test.
 Merge test again.
-Squash merhe test.
+Squash merge test.
 Test.
 My sandbox.
